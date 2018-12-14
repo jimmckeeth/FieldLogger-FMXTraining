@@ -1,0 +1,3 @@
+*.docx !text !filter !merge !diff
+*.pptx !text !filter !merge !diff
+*.exe !text !filter !merge !diff
