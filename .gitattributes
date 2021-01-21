@@ -1,3 +1,10 @@
+*.inc linguist-language=Delphi
+*.pas linguist-language=Delphi
+*.dfm linguist-language=Delphi
+*.dpr linguist-language=Delphi
+*.fmx linguist-language=Delphi
+*.dproj linguist-language=Delphi
+*.deployproj linguist-language=Delphi
 *.docx !text !filter !merge !diff
 *.pptx !text !filter !merge !diff
 *.exe !text !filter !merge !diff
