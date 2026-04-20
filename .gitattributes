@@ -5,6 +5,8 @@
 *.fmx linguist-language=Pascal
 *.dproj linguist-language=Pascal
 *.deployproj linguist-language=Pascal
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
 *.docx !text !filter !merge !diff
 *.pptx !text !filter !merge !diff
 *.exe !text !filter !merge !diff
